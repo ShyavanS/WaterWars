@@ -1,0 +1,77 @@
+# Exported from 3D Builder
+
+newmtl WhiteWood_0
+Kd 1.000000 1.000000 1.000000
+map_Kd WhiteWood_baseColor_8153810648107067296.png
+
+newmtl Roofs_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Roofs_baseColor_9919837686481292364.png
+
+newmtl Siding_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Siding_baseColor_12672105836179371972.png
+
+newmtl WoodPlanks_0
+Kd 1.000000 1.000000 1.000000
+map_Kd WoodPlanks_baseColor_12136749704190523488.png
+
+newmtl Fence1_0
+Kd 0.000000 0.000000 0.000000
+
+newmtl StopSign_0
+Kd 1.000000 1.000000 1.000000
+map_Kd StopSign_baseColor_15853527909305393568.png
+
+newmtl OneWay_0
+Kd 1.000000 1.000000 1.000000
+map_Kd OneWay_baseColor_5046405598993221836.png
+
+newmtl Material.001_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Pines_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Pines_baseColor_8328196163999553924.png
+
+newmtl Leaves_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Leaves_baseColor_11899704555594244116.png
+
+newmtl Material.004_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Material.004_baseColor_14126322532748253036.png
+
+newmtl Material.005_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Material.005_baseColor_6672996682974157280.png
+
+newmtl Door_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Door_baseColor_2834719412083903128.png
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Bricks_baseColor_17832851910588591680.png
+
+newmtl Material.002_0
+Kd 0.424467 0.424467 0.424467
+
+newmtl Material_0
+Kd 0.971892 0.970186 1.000000
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd Bark_baseColor_3896539097055736404.png
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd Siding2_baseColor_7532134839153738640.png
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd Material.003_baseColor_11844104306962135124.png
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd Windows_baseColor_5090655307731093264.png
